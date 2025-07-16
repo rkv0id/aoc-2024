@@ -1,3 +1,6 @@
+mod input;
+
 fn main() {
-    println!("Hello, world!");
+    let input = input::fetch_input(2024, 1);
+    println!("Day 1 Input:\n{}", input);
 }
