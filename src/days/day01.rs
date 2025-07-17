@@ -50,5 +50,5 @@ pub fn run(input: &str) {
             }
         }
     }
-    println!(" Answer 2: {}", score);
+    println!("Answer 2: {}", score);
 }
