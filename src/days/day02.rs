@@ -1,5 +1,3 @@
-use core::panic;
-
 pub fn run(input: &str) {
     let safe1_reports = input
         .lines()
